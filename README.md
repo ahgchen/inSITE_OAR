@@ -18,5 +18,5 @@ For the relevant projects, see:
 [work-package-3](https://github.com/ahgchen/inSITE_OAR/tree/12e1905b1df946e04a7eb85809eb76d3d3e93be9/work-package-3)
 
 <a href="http://creativecommons.org/publicdomain/zero/1.0/](https://insite.ahgchen.uk/">
-    <img src="https://insite.ahgchen.uk/assets/inSITE.webp" style="border-style: none;" alt="inSITE" />
+    <img src="https://insite.ahgchen.uk/assets/inSITE.webp" style="border-style: none;" width="20%" alt="inSITE" />
   </a>

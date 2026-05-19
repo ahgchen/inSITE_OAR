@@ -1,6 +1,5 @@
-# inSITE Public Repository
 <a href="https://insite.ahgchen.uk/">
-<img src="https://insite.ahgchen.uk/assets/inSITE.webp" style="border-style: none;" width="15%" alt="inSITE"></a><br>
+<img src="https://insite.ahgchen.uk/assets/inSITE.webp" style="border-style: none;" width="15%" alt="inSITE"></a><br> # inSITE Public Repository
 
 ## Overview
 This repository shares the materials for the three-part PhD project inSITE: Investigating the Social Determinants of Youth Suicide and Self-Harm in England

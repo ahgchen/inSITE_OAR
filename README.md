@@ -2,7 +2,7 @@
 <a href="https://insite.ahgchen.uk/">
 <img src="https://insite.ahgchen.uk/assets/inSITE.webp" style="border-style: none;" width="20%" height="20" alt="inSITE"></a>
 <a href="https://www.birmingham.ac.uk/">
-<img src="https://www.birmingham.ac.uk/Images/logos/uob/uob-uk-logo-dark.svg" style="border-style: none;" width="20%" alt="University of Birmingham"></a>
+<img src="https://www.birmingham.ac.uk/Images/logos/uob/uob-uk-logo-dark.svg" style="border-style: none;" width="18%" alt="University of Birmingham"></a>
 <a href="https://www.nottingham.ac.uk/">
 <img src="https://www.nottingham.ac.uk/etc.clientlibs/uon/clientlibs/clientlib-site/resources/images/Logo-white.svg" style="border-style: none;" width="20%" alt="University of Nottingham"></a>
 <a href="https://www.ukri.org/councils/esrc/">

@@ -4,7 +4,7 @@
 <a href="https://www.birmingham.ac.uk/">
 <img src="https://www.birmingham.ac.uk/Images/logos/uob/uob-uk-logo-dark.svg" style="border-style: none;" width="20%" alt="University of Birmingham"></a>
 <a href="https://www.nottingham.ac.uk/">
-<img src="https://www.nottingham.ac.uk/etc.clientlibs/uon/clientlibs/clientlib-site/resources/images/Logo-white.svg" style="border-style: none;" width="10%" alt="University of Nottingham"></a>
+<img src="https://www.nottingham.ac.uk/etc.clientlibs/uon/clientlibs/clientlib-site/resources/images/Logo-white.svg" style="border-style: none;" width="15%" alt="University of Nottingham"></a>
 <a href="https://www.ukri.org/councils/esrc/">
 <img src="https://upload.wikimedia.org/wikipedia/en/thumb/1/1c/Economic_and_Social_Research_Council_logo.svg/1280px-Economic_and_Social_Research_Council_logo.svg.png" style="border-style: none;" width="20%" alt="ESRC"></a>
 

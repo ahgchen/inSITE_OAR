@@ -1,6 +1,6 @@
 # inSITE Public Repository
 <a href="https://insite.ahgchen.uk/">
-<img src="https://insite.ahgchen.uk/assets/inSITE.webp" style="border-style: none;" width="15%" alt="inSITE"></a>
+<img src="https://insite.ahgchen.uk/assets/inSITE.webp" style="border-style: none;" width="15%" alt="inSITE"></a><br>
 <a href="https://www.birmingham.ac.uk/">   
 <img src="https://www.birmingham.ac.uk/Images/logos/uob/uob-uk-logo-dark.svg" style="border-style: none;" width="20%" alt="University of Birmingham"></a>
 <a href="https://www.nottingham.ac.uk/">   

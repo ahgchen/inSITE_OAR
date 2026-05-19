@@ -11,7 +11,9 @@
 <a href="https://www.ukri.org/councils/esrc/">
 <img src="https://upload.wikimedia.org/wikipedia/en/thumb/1/1c/Economic_and_Social_Research_Council_logo.svg/1280px-Economic_and_Social_Research_Council_logo.svg.png" style="border-style: none;" width="20%" alt="ESRC">
 </a>
-  
+
+This work is supported by the Economic and Social Research Council [grant number: ES/Y001877/1](https://gtr.ukri.org/projects?ref=ES%2FY001877%2F1) through the Midlands Graduate School ESRC DTP Strategic Joint Scholarship (project reference: 2926735).
+
 ## Overview
 This repository shares the materials for the three-part PhD project inSITE: Investigating the Social Determinants of Youth Suicide and Self-Harm in England
 

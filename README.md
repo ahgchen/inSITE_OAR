@@ -1,24 +1,22 @@
-<a href="https://insite.ahgchen.uk/">
-<img src="https://insite.ahgchen.uk/assets/inSITE.webp" style="border-style: none;" width="15%" alt="inSITE"></a><br>
-
 # inSITE Open Access Repository 
+<a href="https://insite.ahgchen.uk/">
+<img src="https://insite.ahgchen.uk/assets/inSITE-OAR.webp" style="border-style: none;" width="15%" alt="inSITE"></a>
 
 ## Overview
 This repository shares the materials for the three-part PhD project inSITE: Investigating the Social Determinants of Youth Suicide and Self-Harm in England
 
 #### ***`some materials may be embargoed for confidentiality`***
 
-
 For the relevant projects, see:
 
 ### What Works? A Rapid Realist Policy Review  (RRPR) of the impact of social determinants on self-harm and suicidal thoughts and behaviours in England
 [work package 1](https://github.com/ahgchen/inSITE_OAR/tree/12e1905b1df946e04a7eb85809eb76d3d3e93be9/work-package-1)
 
-### Title
+### The role of social determinants on self-harm and suicide attempts: a birth cohort study (TBC)
 
 [work-package-2](https://github.com/ahgchen/inSITE_OAR/tree/12e1905b1df946e04a7eb85809eb76d3d3e93be9/work-package-2)
 
-### Title (TBC)
+### Exploring how structural social determinants manifest on an individual level in young people (TBC)
 
 [work-package-3](https://github.com/ahgchen/inSITE_OAR/tree/12e1905b1df946e04a7eb85809eb76d3d3e93be9/work-package-3)
 

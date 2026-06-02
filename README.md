@@ -5,7 +5,7 @@
 ## Overview
 This repository shares the materials for the three-part PhD project inSITE: Investigating the Social Determinants of Youth Suicide and Self-Harm in England
 
-#### ***`some materials may be embargoed for confidentiality`***
+#### ***`⚠ some materials may be embargoed for confidentiality`***
 
 For the relevant projects, see:
 

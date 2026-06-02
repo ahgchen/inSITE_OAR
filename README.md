@@ -12,7 +12,7 @@ For the relevant projects, see:
 ### What Works? A Rapid Realist Policy Review  (RRPR) of the impact of social determinants on self-harm and suicidal thoughts and behaviours in England
 [work package 1](https://github.com/ahgchen/inSITE_OAR/tree/12e1905b1df946e04a7eb85809eb76d3d3e93be9/work-package-1)
 
-### The role of social determinants on self-harm and suicide attempts: a birth cohort study (TBC)
+### Social determinants, Self-harm and Suicide Attempts in Youths in England: A Longitudinal Birth Cohort Study
 
 [work-package-2](https://github.com/ahgchen/inSITE_OAR/tree/12e1905b1df946e04a7eb85809eb76d3d3e93be9/work-package-2)
 

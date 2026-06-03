@@ -1,6 +1,6 @@
 ﻿* Encoding: UTF-8.
 
-*** Filter so that only the first cohort member that is surveyed is included (use on raw dataset)
+*** Filter so that only the first cohort member that is surveyed is included (use on raw dataset) [N.B. change prefix based on wave, i.e., wave 1 = a, wave 2 = b, wave 3 = c, etc.]
 
 FILTER OFF.
 USE ALL.

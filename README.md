@@ -10,15 +10,15 @@ This repository shares the materials for the three-part PhD project inSITE: Inve
 For the relevant projects, see:
 
 ### What Works? A Rapid Realist Policy Review  (RRPR) of the impact of social determinants on self-harm and suicidal thoughts and behaviours in England
-[work package 1](https://github.com/ahgchen/inSITE_OAR/tree/12e1905b1df946e04a7eb85809eb76d3d3e93be9/work-package-1)
+[work package 1](https://github.com/ahgchen/inSITE_OAR/tree/main/work-package-1)
 
 ### Social determinants, Self-harm and Suicide Attempts among Youths in England: A Longitudinal Birth Cohort Study
 
-[work-package-2](https://github.com/ahgchen/inSITE_OAR/tree/12e1905b1df946e04a7eb85809eb76d3d3e93be9/work-package-2)
+[work-package-2](https://github.com/ahgchen/inSITE_OAR/tree/main/work-package-2)
 
 ### Exploring how structural social determinants manifest on an individual level in young people (TBC)
 
-[work-package-3](https://github.com/ahgchen/inSITE_OAR/tree/12e1905b1df946e04a7eb85809eb76d3d3e93be9/work-package-3)
+[work-package-3](https://github.com/ahgchen/inSITE_OAR/tree/main/work-package-3)
 
 ## Funding
 

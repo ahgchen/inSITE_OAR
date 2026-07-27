@@ -18,7 +18,6 @@ _Files_
 ### Social determinants, Self-harm and Suicide Attempts among Youths in England: A Longitudinal Birth Cohort Study [(work-package-2)](https://github.com/ahgchen/inSITE_OAR/tree/main/work-package-2)
 
 _Files_
-- 
 
 ### Exploring how structural social determinants manifest on an individual level in young people (TBC) [(work-package-3)](https://github.com/ahgchen/inSITE_OAR/tree/main/work-package-3)
 

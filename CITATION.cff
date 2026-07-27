@@ -14,6 +14,7 @@ authors:
   given-names: "Maria"
   orcid: "https://orcid.org/0000-0001-7380-3494"
 title: "inSITE Open Access Repository"
+type: dataset
 version: 1.0.0
 date-released: 2026-07-27
 url: "https://github.com/ahgchen/inSITE_OAR"

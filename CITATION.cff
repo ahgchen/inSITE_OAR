@@ -1,0 +1,19 @@
+cff-version: 1.2.0
+message: "If you use any of the files or data, please cite it as below."
+authors:
+- family-names: "Chen"
+  given-names: "Adam Hun Gen"
+  orcid: "https://orcid.org/0009-0001-5819-6232"
+- family-names: "Wright"
+  given-names: "Nicola"
+  orcid: "https://orcid.org/0000-0002-0747-8977"
+- family-names: "Morales-Muñoz"
+  given-names: "Isabel"
+  orcid: "https://orcid.org/0000-0002-4718-6768"
+- family-names: "Michail"
+  given-names: "Maria"
+  orcid: "https://orcid.org/0000-0001-7380-3494"
+title: "inSITE Open Access Repository"
+version: 1.0.0
+date-released: 2026-07-27
+url: "https://github.com/ahgchen/inSITE_OAR"

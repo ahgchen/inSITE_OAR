@@ -1,9 +1,21 @@
 # Social determinants, Self-harm and Suicide Attempts among Youths in England: A Longitudinal Birth Cohort Study
 
+### Files:
+
+#### - syntax.sps
+
+SPSS syntax for variable recoding and analysis.
+
+#### inSITE-plots.r
+
+R syntax for blobbogram plots.
+
+
 ### Preregistration
 
 Preregistration can be found at: https://osf.io/ydce3/overview
 
+### Data
 
 The Data Collection is available to UK Data Service registered users subject to the End User Licence Agreement. <a href="https://datacatalogue.ukdataservice.ac.uk/series/series/2000031">https://datacatalogue.ukdataservice.ac.uk/series/series/2000031</a>
 

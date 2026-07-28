@@ -2,11 +2,11 @@
 
 ## Files:
 
-#### - syntax.sps
+#### syntax.sps
 
 SPSS syntax for variable recoding and analysis.
 
-#### -inSITE-plots.r
+#### inSITE-plots.r
 
 R syntax for blobbogram plots.
 

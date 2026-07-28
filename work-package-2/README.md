@@ -11,13 +11,13 @@ SPSS syntax for variable recoding and analysis.
 R syntax for blobbogram plots.
 
 
-### Preregistration
+## Preregistration
 
 Preregistration can be found at: https://osf.io/ydce3/overview
 
-### Data
+## Data
 
 The Data Collection is available to UK Data Service registered users subject to the End User Licence Agreement. <a href="https://datacatalogue.ukdataservice.ac.uk/series/series/2000031">https://datacatalogue.ukdataservice.ac.uk/series/series/2000031</a>
 
-### Ethics
+## Ethics
 This study has been reviewed by the University of Birmingham Science, Technology, Engineering and Mathematics Committee (Ethics ID: ERN_6442-Jun2026)

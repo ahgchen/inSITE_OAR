@@ -41,7 +41,7 @@ _Files_
 
 ## Exploring how structural social determinants manifest on an individual level in young people (TBC) [(work-package-3)](https://reshare.ukdataservice.ac.uk/)
 
-_N.B Files and documentation for Work Package 3 can be found on ReShare 
+_N.B Files and documentation for Work Package 3 can be found on ReShare  
 Chen, Adam H. G. and Morales-Muñoz, Isabel and Wright, Nicola and Michail, Maria (2026). Investigating the Social Determinants of Youth Suicide and Self-harm in England. [Data Collection]. Colchester, Essex: UK Data Service._
 
 <br>
@@ -49,7 +49,7 @@ Chen, Adam H. G. and Morales-Muñoz, Isabel and Wright, Nicola and Michail, Mari
 ## Funding
 
 <p>
-<a href="https://www.birmingham.ac.uk/"><img src="https://insite.ahgchen.uk/assets/uob.webp" style="border-style: none;" width="50%" alt="University of Birmingham"></a>&nbsp;&nbsp;<a href="https://www.nottingham.ac.uk/"><img src="https://www.nottingham.ac.uk/Brand/LegacyAssets/images-multimedia/2022/Logos/BrandEvolution-NottinghamBlue-Cropped-450x173.png" style="border-style: none;" width="13%" alt="University of Nottingham"></a>&nbsp;&nbsp;<a href="https://www.mgsdtp.ac.uk"><img src="https://insite.ahgchen.uk/assets/Midlands-Graduate-School-DTP.png" style="border-style: none;" width="15%" alt="Midlands Graduate School ESRC DTP"></a>&nbsp;&nbsp;<a href="https://www.ukri.org/councils/esrc/"><img src="https://cdn-assets-cloud.frontify.com/s3/frontify-cloud-files-us/eyJwYXRoIjoiZnJvbnRpZnlcL2ZpbGVcL3FYalJrdW91ODNxVXRCTDdWUzZULnBuZyJ9:frontify:eYcyWQr63O5Il1WiM0I2f7V5gK1_6r5QnoD_qKv6-Ko?width=2400" style="border-style: none;" width="15%" alt="ESRC"></a>   
+<a href="https://www.birmingham.ac.uk/"><img src="https://insite.ahgchen.uk/assets/uob.webp" style="border-style: none;" width="40%" alt="University of Birmingham"></a>&nbsp;&nbsp;<a href="https://www.nottingham.ac.uk/"><img src="https://www.nottingham.ac.uk/Brand/LegacyAssets/images-multimedia/2022/Logos/BrandEvolution-NottinghamBlue-Cropped-450x173.png" style="border-style: none;" width="13%" alt="University of Nottingham"></a>&nbsp;&nbsp;<a href="https://www.mgsdtp.ac.uk"><img src="https://insite.ahgchen.uk/assets/Midlands-Graduate-School-DTP.png" style="border-style: none;" width="15%" alt="Midlands Graduate School ESRC DTP"></a>&nbsp;&nbsp;<a href="https://www.ukri.org/councils/esrc/"><img src="https://cdn-assets-cloud.frontify.com/s3/frontify-cloud-files-us/eyJwYXRoIjoiZnJvbnRpZnlcL2ZpbGVcL3FYalJrdW91ODNxVXRCTDdWUzZULnBuZyJ9:frontify:eYcyWQr63O5Il1WiM0I2f7V5gK1_6r5QnoD_qKv6-Ko?width=2400" style="border-style: none;" width="15%" alt="ESRC"></a>   
 </p>
 
 This work is supported by the Economic and Social Research Council (grant number: [ES/Y001877/1](https://gtr.ukri.org/projects?ref=ES%2FY001877%2F1)) through the Midlands Graduate School ESRC DTP Strategic Joint Scholarship (project reference: 2926735).

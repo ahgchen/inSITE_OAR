@@ -29,6 +29,7 @@ _Files_
 - _e110787.full.pdf_: BMJ Open Protocol Paper
   
 <br>
+
 ## Social determinants, Self-harm and Suicide Attempts among Youths in England: A Longitudinal Birth Cohort Study [(work-package-2)](https://github.com/ahgchen/inSITE_OAR/tree/main/work-package-2)
 
 _Files_
@@ -37,11 +38,13 @@ _Files_
 - _inSITE-plots.r_: R plots syntax
 
 <br>
+
 ## Exploring how structural social determinants manifest on an individual level in young people (TBC) [(work-package-3)](https://reshare.ukdataservice.ac.uk/)
 
 _N.B Files and documentation for Work Package 3 can be found on ReShare (LINK)_
 
 <br>
+
 ## Funding
 
 <p>

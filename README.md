@@ -15,7 +15,7 @@ This project has three main objectives:
 - To investigate the impact of key social determinants during childhood and adolescence on the development of later self-harm and suicide attempt among youths in England.
 - To examine how young people in England with lived or living experience of self‑harm or suicidal thoughts and behaviour understand the relationship between social determinants and individual-level risk factors, and how these interacting factors shape their lived experiences.
 
-#### ⚠ ***`some materials may be embargoed due to confidentiality`***
+> ⚠ ***`some materials may be embargoed due to confidentiality`***  
 
 
 
@@ -25,16 +25,16 @@ For the relevant projects, see:
 
 _Files_
 - _e110787.full.pdf_ - BMJ Open Protocol Paper
-
+  
 
 ## Social determinants, Self-harm and Suicide Attempts among Youths in England: A Longitudinal Birth Cohort Study [(work-package-2)](https://github.com/ahgchen/inSITE_OAR/tree/main/work-package-2)
 
 _Files_
-
+  
 ## Exploring how structural social determinants manifest on an individual level in young people (TBC) [(work-package-3)](https://github.com/ahgchen/inSITE_OAR/tree/main/work-package-3)
 
 _N.B Files and documentation for Work Package 3 can be found on ReShare (LINK)_
-
+  
 ## Funding
 
 <p>

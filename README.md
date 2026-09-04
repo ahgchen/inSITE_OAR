@@ -41,7 +41,7 @@ _Files_
 
 ## Exploring how structural social determinants manifest on an individual level in young people (TBC) [(work-package-3)](https://reshare.ukdataservice.ac.uk/)
 
-_N.B Files and documentation for Work Package 3 can be found on ReShare (LINK)_
+_N.B Files and documentation for Work Package 3 can be found on ReShare (Chen, Adam H. G. and Morales-Muñoz, Isabel and Wright, Nicola and Michail, Maria (2026). Investigating the Social Determinants of Youth Suicide and Self-harm in England. [Data Collection]. Colchester, Essex: UK Data Service.)_
 
 <br>
 

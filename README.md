@@ -55,4 +55,4 @@ Chen, Adam H. G. and Morales-Muñoz, Isabel and Wright, Nicola and Michail, Mari
 This work is supported by the Economic and Social Research Council (grant number: [ES/Y001877/1](https://gtr.ukri.org/projects?ref=ES%2FY001877%2F1)) through the Midlands Graduate School ESRC DTP Strategic Joint Scholarship (project reference: 2926735).
 
 ## Cite as
-Chen, A. H. G., Wright, N., Morales-Muñoz, I., & Michail, M. (2026). inSITE Open Access Repository (Version 1.0.0) [Data set]. https://github.com/ahgchen/inSITE_OAR
+Chen, A. H. G., Morales-Muñoz, I., Wright, N., & Michail, M. (2026). inSITE Open Access Repository (Version 1.0.0) [Data set]. https://github.com/ahgchen/inSITE_OAR

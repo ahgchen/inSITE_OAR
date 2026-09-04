@@ -3,7 +3,7 @@
 <img src="https://insite.ahgchen.uk/assets/inSITE.webp" style="border-style: none;" width="30%" alt="inSITE"></a>
 
 ## Overview
-This repository shares the materials for the three-part PhD project inSITE: Investigating the Social Determinants of Youth Suicide and Self-Harm in England
+This repository shares the materials for the three-part PhD project inSITE: Investigating the Social Determinants of Youth Suicide and Self-Harm in England.
 
 Suicide is a leading cause of mortality among young people aged 15-29 worldwide. Among the strongest predictors for suicide is self-harm (Hawton et al, 2015), referring to Intentional self-poisoning or injury, irrespective of the apparent purpose (NICE, 2022). Approximately half of those who engage in self-harming behaviour will go on to attempt suicide (Hawton et al., 2015; Rodway et al., 2016).
 
@@ -15,9 +15,9 @@ This project has three main objectives:
 - To investigate the impact of key social determinants during childhood and adolescence on the development of later self-harm and suicide attempt among youths in England.
 - To examine how young people in England with lived or living experience of self‑harm or suicidal thoughts and behaviour understand the relationship between social determinants and individual-level risk factors, and how these interacting factors shape their lived experiences.
 
-> ⚠ ***`some materials may be embargoed due to confidentiality`***  
+> ⚠ some materials may be embargoed due to confidentiality
 
-
+<br>
 
 For the relevant projects, see:
 
